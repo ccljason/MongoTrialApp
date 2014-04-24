@@ -11,6 +11,9 @@ using System.Windows.Forms;
 
 namespace MongoTrialApp
 {
+   /// <summary>
+   /// This is the test class
+   /// </summary>
    public class MongoClass
    {
       // http://docs.mongodb.org/ecosystem/tutorial/getting-started-with-csharp-driver/#getting-started-with-csharp-driver
